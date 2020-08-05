@@ -389,13 +389,6 @@
                 <sign>0ce90cccde957cd664d4c3d2aad38fa8</sign>
                 <url>qm-json/javtc.json</url>
             </item>
-            <item>
-                <name>小车库</name>
-                <info>updatetime:202522</info>
-                <version>1</version>
-                <sign>da788da279605df77267787e26d5785e</sign>
-                <url>qm-json/小车库.json</url>
-            </item>
         </list>
     </page>
 </xml>
